@@ -1,4 +1,3 @@
-<script>
 //Page Load Animation
 $(document).ready(function() {
   $('.loading-screen').show().css('opacity', '1');
@@ -22,4 +21,3 @@ $(document).ready(function() {
     $('.body-background').removeClass('no-scroll');
   });
 });
-</script>
